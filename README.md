@@ -5,7 +5,7 @@ There are codes and reports of the capstone project of G24.
 This folder contains all codes we use from explorative research to deep learning model training to output visualization. 
 
 ## Report
-This folder contains our proposal, progress, gand final report.
+This folder contains our proposal, progress, and final report.
 
 ## tSNE
 This folder contains the tSNE plot of our models.
